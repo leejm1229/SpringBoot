@@ -1,4 +1,4 @@
-package 프로그래머스.KAKAO;
+package 프로그래머스.KAKAO.Lv3;
 
 import java.util.*;
 

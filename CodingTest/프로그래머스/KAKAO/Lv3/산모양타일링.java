@@ -1,4 +1,4 @@
-package 프로그래머스.KAKAO;
+package 프로그래머스.KAKAO.Lv3;
 
 class 산모양타일링 {
     public static int solution(int n, int[] tops) {
