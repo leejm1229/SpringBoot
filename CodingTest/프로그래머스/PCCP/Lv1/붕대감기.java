@@ -1,4 +1,4 @@
-package 프로그래머스.KAKAO.Lv1;
+package 프로그래머스.PCCP.Lv1;
 
 class 붕대감기 {
     public int solution(int[] bandage, int health, int[][] attacks) {
