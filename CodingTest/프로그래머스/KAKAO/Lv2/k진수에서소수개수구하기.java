@@ -1,7 +1,5 @@
 package 프로그래머스.KAKAO.Lv2;
 
-import java.util.*;
-
 public class k진수에서소수개수구하기 {
     public int solution(int n, int k) {
         
