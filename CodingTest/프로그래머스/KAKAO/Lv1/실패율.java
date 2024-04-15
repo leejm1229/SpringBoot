@@ -1,7 +1,5 @@
 package 프로그래머스.KAKAO.Lv1;
 
-import java.util.*;
-
 
 class 실패율 {
     public int[] solution(int N, int[] stages) {
